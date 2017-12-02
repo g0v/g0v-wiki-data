@@ -1,6 +1,3 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
-
 # g0v.wiki
 這是 g0v 零時政府的專用 Wiki 網站。常見問題：
 
