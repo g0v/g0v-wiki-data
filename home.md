@@ -2,4 +2,6 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # g0v.wiki
-this is the wikipedia for g0v.
+這是 g0v 零時政府的專用 Wiki 網站。常見問題：
+
+* [坑](坑) 是什麼？
