@@ -6,3 +6,5 @@
 * 香港佔中 - http://today.code4.hk/hkstudentstrike ( 已掛 ) 
 * 高雄氣爆事件 - http://hackfoldr.org/Kaohsiung-explode-20140801/
 * 八仙塵爆 - http://beta.hackfoldr.org/627pray/
+
+Hackfoldr 的使用教學與入口網站：http://beta.hackfoldr.org
